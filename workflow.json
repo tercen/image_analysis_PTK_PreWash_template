@@ -2,7 +2,7 @@
   "kind": "Workflow",
   "id": "07bd3af45f259674834661ea5f3d5fec",
   "isDeleted": false,
-  "rev": "4-ff8a28edc44b19153993136802daa615",
+  "rev": "5-4abaa9575205ee6b54a3eed59c0e463a",
   "description": "image analysis PTK Pre Wash",
   "name": "image_analysis_PTK_PreWash",
   "createdBy": "ginberg",
@@ -17,7 +17,7 @@
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2022-03-23T08:34:12.784875Z"
+    "value": "2022-03-24T12:41:29.154552Z"
   },
   "urls": [
     {
@@ -42,7 +42,7 @@
     "kind": "Url",
     "uri": "https://github.com/tercen/image_analysis_PTK_PreWash_template"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [],
   "isPublic": false,
   "projectId": "ba516d78a1a52fff3d5ade71588d64f8",
@@ -2621,8 +2621,8 @@
           "operatorRef": {
             "kind": "OperatorRef",
             "name": "PS12 Image Overview Shiny Operator",
-            "version": "0.0.4",
-            "operatorId": "2d4a3c81ff96b26a3085562bb2a4ceac",
+            "version": "0.0.5",
+            "operatorId": "07bd3af45f259674834661ea5fedc7bd",
             "operatorKind": "ShinyOperator",
             "propertyValues": [],
             "url": {
